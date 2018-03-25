@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt-get install -y libperl-dev curl
+apt-get install -y curl
 
 # Cleanup
 echo '---> Cleaning up..'
